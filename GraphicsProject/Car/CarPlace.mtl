@@ -1,0 +1,24 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl Material.002
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Project Graphics/Models/ford-econoline/textures/econoline_d.png
+
+newmtl Shape
+Ns 500.000000
+Ka 0.200000 0.200000 0.200000
+Kd 0.720000 0.720000 0.720000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd jim-specialized/source/Full_body/model_texture.jpg
